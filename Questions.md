@@ -7,9 +7,10 @@ typdef int mytype;
 ```
 - [ ] What is _Resource Allocation Is Initialized (RAII)_ ?
 - [ ] What is explicit constructor ?
-- [ ] What is Move constructor ?
-- [ ] What is Move Assignment ?
+- [ ] What is Copy vs Move constructor ?
+- [ ] What is Copy vs Move Assignment ?
 - [ ] What is RPC, and GRPC ?
+- [ ] What is multiple vs diamond inheritance ?
 - [ ] What is templates difference between class vs typename ?
 ```Cpp
 template <class T>
